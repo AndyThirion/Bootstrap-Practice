@@ -1,0 +1,28 @@
+.article {
+	padding: 5%;
+	font-size: 1.5em;
+	background: #EEEEEE;
+}
+
+.article-title {
+	font-size: 3em;
+}
+
+.btn-primary .fa {
+	font-size: .5em;
+	vertical-align: middle;
+}
+
+.btn-default .fa {
+	font-size: .5em;
+	vertical-align: middle;
+}
+
+.body {
+	padding: 5%;
+	border-bottom: 1px solid #EEE;
+}
+
+.footer {
+	padding: 2.5% 7.5%;
+}
